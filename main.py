@@ -5,6 +5,7 @@ from fraction import Fraction
 
 print(sys.version_info)
 
+
 a = Fraction(2, 3)
 b = Fraction(3, 4)
 
